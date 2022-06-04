@@ -1,4 +1,4 @@
-# Mentoria-.NET
+# Mentoria - DIO .NET GFT
 
 ## O que é POO?
 * Programação Orientada a Objetos, também conhecida como POO, é um paradigma onde um programa é estruturado em componentes individuais chamados de objetos
